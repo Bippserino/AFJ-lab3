@@ -1,0 +1,8 @@
+a = 0
+dok istina
+a = a + 1
+ako a == 10
+vrati laz
+kraj
+kraj
+ispis a $$ a treba biti 10
